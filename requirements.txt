@@ -2,3 +2,4 @@ python-dotenv
 requests
 openai
 python-docx
+tavily-python
