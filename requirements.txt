@@ -3,3 +3,6 @@ requests
 openai
 python-docx
 tavily-python
+PyYAML
+anthropic
+google-generativeai
